@@ -1,0 +1,15 @@
+# textdomain: atl_quest
+Dig 5 stone=
+Place 5 stone=
+Dig 10 dirt=
+Place 10 dirt=
+Dig 3 tree=
+[Server] -!- Not enough space in inventory. Dropping reward: =
+[Server] -!- Invalid reward format: =
+[Server] -!- Quest progress: =
+[Server] -!- Quest completed: =
+Quest data not available. Please try again later.=
+Reload=
+Show quests interface=
+Change the daily quest=
+[Server] -!- Daily quest changed to: =
